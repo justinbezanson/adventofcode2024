@@ -1,5 +1,5 @@
-//https://adventofcode.com/2024/day/3
-//command: go run dec3/main.go
+//https://adventofcode.com/2024/day/4
+//command: go run dec4/main.go
 
 package main
 
